@@ -1,0 +1,56 @@
+body{
+	background: url(../img/milleniumbridge.jpg) no-repeat center center fixed  ;
+	background-size: cover;
+
+}
+h1{
+	color: white;
+	font-family: Candara;
+	font-size: 100px;
+	font-weight: bold;
+}
+.paragraph { 
+	position: relative;
+	top: 205px;
+	margin: auto;
+ }
+ .newcastle {
+ 	color:white;
+ 	font-family: Candara;
+	font-size: 100px;
+	font-weight: bold;
+ }
+.upon {
+	color:black ;
+ 	font-family: Candara;
+	font-size: 100px;
+	font-weight: bold;
+}
+.tyne {
+	color:white;
+ 	font-family: Candara;
+	font-size: 100px;
+	font-weight: bold;
+}
+.navbar-title {
+	color: white;
+	font-family: Arial;
+}
+.nav-link {
+	position: relative;
+	color:white;
+	float:right;
+	bottom:42px;
+	font-family:Arial ;
+	font-size: 20px;
+}
+.toonbadge2 {
+	float: left;
+}
+.navbar {
+	height: 60px;
+	background: black;
+}
+nav a:hover {
+	font-weight: bold;
+}
